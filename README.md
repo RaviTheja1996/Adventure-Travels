@@ -12,4 +12,4 @@ The Adventure Travels is the website name of our project and it is a website whe
 
 # Deployment
 
-https://capable-custard-882ec2.netlify.app/
+[Live Site](https://stupendous-entremet-122a1e.netlify.app/)
